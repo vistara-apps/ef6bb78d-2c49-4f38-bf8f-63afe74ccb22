@@ -1,0 +1,14 @@
+{
+  "name": "MemoryLink",
+  "description": "MemoryLink is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://ef6bb78d-2c49-4f38-bf8f-63afe74ccb22.vercel.app",
+  "properties": {
+    "app": {
+      "name": "MemoryLink",
+      "description": "MemoryLink is a Base Mini App built with Zara.",
+      "url": "https://ef6bb78d-2c49-4f38-bf8f-63afe74ccb22.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

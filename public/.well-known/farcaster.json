@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "MemoryLink",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-e74ccb22-p9zu.vercel.app",
+    "imageUrl": "https://ef6bb78d-2c49-4f38-bf8f-63afe74ccb22.vercel.app/image.png",
+    "splashImageUrl": "https://ef6bb78d-2c49-4f38-bf8f-63afe74ccb22.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://app-e74ccb22-p9zu.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "MemoryLink is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://ef6bb78d-2c49-4f38-bf8f-63afe74ccb22.vercel.app/screenshot1.png",
+      "https://ef6bb78d-2c49-4f38-bf8f-63afe74ccb22.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://ef6bb78d-2c49-4f38-bf8f-63afe74ccb22.vercel.app/hero.png",
+    "tagline": "MemoryLink",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "MemoryLink",
+    "ogDescription": "MemoryLink is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://ef6bb78d-2c49-4f38-bf8f-63afe74ccb22.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+MemoryLink+at+https%3A%2F%2Fef6bb78d-2c49-4f38-bf8f-63afe74ccb22.vercel.app"
+  }
+}
